@@ -2,7 +2,7 @@
 
 ## Präambel
 0
-Die Agenda dient als Leitfaden für das Projekt, bei dem eine Helm Chart für eine eigene Applikation mit API, Datenbank und webfrontend erstellt und auf einem Cluster ausgerollt werden soll. Darüber hinaus soll ein ausführliches Betriebshandbuch erstellt werden, das den kompletten Rollout und Betrieb der Software beschreibt. Die Agenda fasst die wichtigsten Schritte und Ziele des Projekts zusammen und dient als Orientierung für alle Beteiligten.
+Die Agenda dient als Leitfaden für das Projekt, bei dem ein Helm Chart für eine eigene Applikation mit API, Datenbank und webfrontend erstellt und auf einem Cluster ausgerollt werden soll. Darüber hinaus soll ein ausführliches Betriebshandbuch erstellt werden, das den kompletten Rollout und Betrieb der Software beschreibt. Die Agenda fasst die wichtigsten Schritte und Ziele des Projekts zusammen und dient als Orientierung für alle Beteiligten.
 
 ## Agenda
 
@@ -30,7 +30,7 @@ Die Agenda dient als Leitfaden für das Projekt, bei dem eine Helm Chart für ei
 - [ ] Erstellung des Betriebshandbuchs
 - [ ] Dokumentation der Konfigurationen und Einstellungen
 - [ ] Dokumentation der Deployment-Schritte
-### Testen und Validierung:
+### Testen und Validierung (Behnur):
 - Durchführung von Funktionstests
 - Überprüfung der Skalierbarkeit
 - Überprüfung der Zuverlässigkeit
